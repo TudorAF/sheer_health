@@ -1,0 +1,51 @@
+{
+  "subscriber": {
+    "memberId": "3034446346",
+    "firstName": "Curtis",
+    "lastName": "Dimaggio",
+    "gender": "M",
+    "entityIdentifier": "Insured or Subscriber",
+    "entityType": "Person",
+    "dateOfBirth": "19791108",
+    "groupNumber": "7204391226",
+    "relationToSubscriber": "Self",
+    "insuredIndicator": "Y",
+    "maintenanceTypeCode": "001",
+    "maintenanceReasonCode": "25",
+    "address": {
+      "address1": "250 Scheuvront Drive",
+      "city": "Boulder",
+      "state": "CO",
+      "postalCode": "80302"
+    }
+  },
+  "planInformation": { "groupNumber": "7204391226" },
+  "planDateInformation": { "planBegin": "20221101" },
+  "benefitsInformation": [
+    {
+      "code": "X",
+      "name": "Health Care Facility",
+      "headerLoopIdentifierCode": "2120",
+      "trailerLoopIdentifierCode": "2120",
+      "benefitsDateInformation": {},
+      "benefitsRelatedEntity": {
+        "entityIdentifier": "Provider",
+        "entityType": "Non-Person Entity",
+        "entityName": "NOTIONAL HEALTH INC",
+        "entityIdentification": "Centers for Medicare and Medicaid Services National Provider Identifier",
+        "entityIdentificationValue": "000000000",
+        "address": {}
+      },
+      "benefitsRelatedEntities": [
+        {
+          "entityIdentifier": "Provider",
+          "entityType": "Non-Person Entity",
+          "entityName": "NOTIONAL HEALTH INC",
+          "entityIdentification": "Centers for Medicare and Medicaid Services National Provider Identifier",
+          "entityIdentificationValue": "000000000",
+          "address": {}
+        }
+      ]
+    }
+  ]
+}

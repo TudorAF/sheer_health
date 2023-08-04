@@ -1,0 +1,76 @@
+{
+  "subscriber": {
+    "memberId": "3034446346",
+    "firstName": "Curtis",
+    "lastName": "Dimaggio",
+    "gender": "M",
+    "entityIdentifier": "Insured or Subscriber",
+    "entityType": "Person",
+    "dateOfBirth": "19791108",
+    "groupNumber": "7204391226",
+    "relationToSubscriber": "Self",
+    "insuredIndicator": "Y",
+    "maintenanceTypeCode": "001",
+    "maintenanceReasonCode": "25",
+    "address": {
+      "address1": "250 Scheuvront Drive",
+      "city": "Boulder",
+      "state": "CO",
+      "postalCode": "80302"
+    }
+  },
+  "planInformation": { "groupNumber": "7204391226" },
+  "planDateInformation": { "planBegin": "20221101" },
+  "benefitsInformation": [
+    {
+      "code": "1",
+      "name": "Active Coverage",
+      "coverageLevelCode": "IND",
+      "coverageLevel": "Individual",
+      "serviceTypeCodes": ["30"],
+      "serviceTypes": ["Health Benefit Plan Coverage"],
+      "insuranceTypeCode": "C1",
+      "insuranceType": "Commercial",
+      "planCoverage": "Freedom Network",
+      "headerLoopIdentifierCode": "2120",
+      "trailerLoopIdentifierCode": "2120",
+      "benefitsDateInformation": {},
+      "benefitsRelatedEntity": {
+        "entityIdentifier": "Payer",
+        "entityType": "Non-Person Entity",
+        "entityName": "NOTIONAL Health Insurance, Inc.",
+        "entityIdentification": "Payor Identification",
+        "entityIdentificationValue": "000000",
+        "contactInformation": {
+          "contacts": [
+            {
+              "communicationMode": "Uniform Resource Locator (URL)",
+              "communicationNumber": "www.NOTIONALhealth.com"
+            }
+          ]
+        }
+      },
+      "benefitsRelatedEntities": [
+        {
+          "entityIdentifier": "Payer",
+          "entityType": "Non-Person Entity",
+          "entityName": "NOTIONAL Health Insurance, Inc.",
+          "entityIdentification": "Payor Identification",
+          "entityIdentificationValue": "000000",
+          "address": { "address1": "PO Box 29130" },
+          "contactInformation": {
+            "contacts": [
+              {
+                "communicationMode": "Uniform Resource Locator (URL)",
+                "communicationNumber": "www.NOTIONALhealth.com"
+              }
+            ]
+          }
+        }
+      ],
+      "additionalInformation": [
+        { "description": "FUNDING TYPE = FULLY INSURED - SMALL GROUP" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "controlNumber": "000000000",
+  "reassociationKey": "000000001",
+  "tradingPartnerServiceId": "NOTIONAL",
+  "provider": {
+    "providerName": "NOTIONAL HEALTH INC",
+    "entityIdentifier": "Provider",
+    "entityType": "Non-Person Entity",
+    "npi": "000000000"
+  },
+  "subscriber": {
+    "firstName": "Matthew",
+    "lastName": "Falcon",
+    "entityIdentifier": "Insured or Subscriber",
+    "entityType": "Person",
+    "dateOfBirth": "19590325",
+    "aaaErrors": [
+      {
+        "field": "AAA",
+        "code": "73",
+        "description": "Invalid/Missing Subscriber/Insured Name",
+        "followUpAction": "Please Correct and Resubmit",
+        "location": "Loop 2100C",
+        "possibleResolutions": "Subscriber's name was submitted incorrectly, or the subscriber's name is missing, or it is spelled incorrectly, in the request"
+      },
+      {
+        "field": "AAA",
+        "code": "71",
+        "description": "Patient Birth Date Does Not Match That for the Patient on the Database",
+        "followUpAction": "Please Correct and Resubmit",
+        "location": "Loop 2100C",
+        "possibleResolutions": "DOB sent in request does not match what is in the payer's database, the subscriber will need to contact the payer to have this changed."
+      }
+    ]
+  },
+  "subscriberTraceNumbers": [
+    {
+      "traceTypeCode": "2",
+      "traceType": "Referenced Transaction Trace Numbers",
+      "referenceIdentification": "000000000",
+      "originatingCompanyIdentifier": "000000000"
+    }
+  ],
+  "payer": {
+    "entityIdentifier": "Payer",
+    "entityType": "Non-Person Entity",
+    "name": "NOTIONALHEALTHCARE",
+    "payorIdentification": "NOTIONAL"
+  },
+  "errors": [
+    {
+      "field": "AAA",
+      "code": "73",
+      "description": "Invalid/Missing Subscriber/Insured Name",
+      "followUpAction": "Please Correct and Resubmit",
+      "location": "Loop 2100C",
+      "possibleResolutions": "Subscriber's name was submitted incorrectly, or the subscriber's name is missing, or it is spelled incorrectly, in the request"
+    },
+    {
+      "field": "AAA",
+      "code": "71",
+      "description": "Patient Birth Date Does Not Match That for the Patient on the Database",
+      "followUpAction": "Please Correct and Resubmit",
+      "location": "Loop 2100C",
+      "possibleResolutions": "DOB sent in request does not match what is in the payer's database, the subscriber will need to contact the payer to have this changed."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pyzw
+
+# IDE/Editor specific
+.vscode/
+.idea/
+*.code-workspace
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Logs in our case we want to keep the logs 
+# *.log
+
+# Build and distribution directories
+build/
+dist/
+
+# Cache and local settings
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+*.manifest
+*.cache
+*.coverage
+*.cover
+*.sqlitedb
+*.sqlite3
+*.swp
+*.DS_Store
+
+# Miscellaneous
+*.bak
+*.tmp
+*.py~
+*.pickle
+*.env
+
+# Exclude the virtual environment directory (change 'venv' to your specific name if different)
+venv/

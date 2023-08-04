@@ -1,0 +1,490 @@
+Subscriber Key|is_eligible|Service Type Code|Service Type|Benefit Name|Time Qualifier|Coverage Level|In Network|Benefit Reimbursement Type|Actual Benefit
+CurtisDimaggio19791108|True|30|Health Benefit Plan Coverage|Active Coverage|None|Individual|False|coverage|True
+CurtisDimaggio19791108|True|33|Chiropractic|Active Coverage|None|Individual|True|coverage|True
+CurtisDimaggio19791108|True|1|Medical Care|Active Coverage|None|Individual|True|coverage|True
+CurtisDimaggio19791108|True|48|Hospital - Inpatient|Active Coverage|None|Individual|True|coverage|True
+CurtisDimaggio19791108|True|MH|Mental Health|Active Coverage|None|Individual|True|coverage|True
+CurtisDimaggio19791108|True|50|Hospital - Outpatient|Active Coverage|None|Individual|True|coverage|True
+CurtisDimaggio19791108|True|AL|Vision (Optometry)|Active Coverage|None|Individual|True|coverage|True
+CurtisDimaggio19791108|True|86|Emergency Services|Active Coverage|None|Individual|True|coverage|True
+CurtisDimaggio19791108|True|UC|Urgent Care|Active Coverage|None|Individual|True|coverage|True
+CurtisDimaggio19791108|True|98|Professional (Physician) Visit - Office|Active Coverage|None|Individual|True|coverage|True
+CurtisDimaggio19791108|True|88|Pharmacy|Active Coverage|None|Individual|True|coverage|True
+CurtisDimaggio19791108|True|33|Chiropractic|Active Coverage|None|Individual|False|coverage|True
+CurtisDimaggio19791108|True|1|Medical Care|Active Coverage|None|Individual|False|coverage|True
+CurtisDimaggio19791108|True|48|Hospital - Inpatient|Active Coverage|None|Individual|False|coverage|True
+CurtisDimaggio19791108|True|MH|Mental Health|Active Coverage|None|Individual|False|coverage|True
+CurtisDimaggio19791108|True|50|Hospital - Outpatient|Active Coverage|None|Individual|False|coverage|True
+CurtisDimaggio19791108|True|AL|Vision (Optometry)|Active Coverage|None|Individual|False|coverage|True
+CurtisDimaggio19791108|True|UC|Urgent Care|Active Coverage|None|Individual|False|coverage|True
+CurtisDimaggio19791108|True|98|Professional (Physician) Visit - Office|Active Coverage|None|Individual|False|coverage|True
+CurtisDimaggio19791108|True|AL|Vision (Optometry)|Co-Payment|None|Individual|True|Amount|20
+CurtisDimaggio19791108|True|88|Pharmacy|Co-Payment|None|Individual|True|Amount|5
+CurtisDimaggio19791108|True|1|Medical Care|Co-Payment|None|Individual|False|Amount|0
+CurtisDimaggio19791108|True|33|Chiropractic|Co-Payment|None|Individual|False|Amount|0
+CurtisDimaggio19791108|True|48|Hospital - Inpatient|Co-Payment|None|Individual|False|Amount|0
+CurtisDimaggio19791108|True|50|Hospital - Outpatient|Co-Payment|None|Individual|False|Amount|0
+CurtisDimaggio19791108|True|98|Professional (Physician) Visit - Office|Co-Payment|None|Individual|False|Amount|0
+CurtisDimaggio19791108|True|AL|Vision (Optometry)|Co-Payment|None|Individual|False|Amount|0
+CurtisDimaggio19791108|True|MH|Mental Health|Co-Payment|None|Individual|False|Amount|0
+CurtisDimaggio19791108|True|UC|Urgent Care|Co-Payment|None|Individual|False|Amount|0
+CurtisDimaggio19791108|True|88|Pharmacy|Co-Payment|None|Individual|True|Amount|75
+CurtisDimaggio19791108|True|1|Medical Care|Co-Payment|None|Individual|True|Amount|40
+CurtisDimaggio19791108|True|50|Hospital - Outpatient|Co-Payment|None|Individual|True|Amount|200
+CurtisDimaggio19791108|True|88|Pharmacy|Co-Payment|None|Individual|True|Amount|15
+CurtisDimaggio19791108|True|50|Hospital - Outpatient|Co-Payment|None|Individual|True|Amount|0
+CurtisDimaggio19791108|True|33|Chiropractic|Co-Payment|None|Individual|True|Amount|30
+CurtisDimaggio19791108|True|88|Pharmacy|Co-Payment|None|Individual|True|Amount|25
+CurtisDimaggio19791108|True|MH|Mental Health|Co-Payment|None|Individual|True|Amount|25
+CurtisDimaggio19791108|True|1|Medical Care|Co-Payment|None|Individual|True|Amount|20
+CurtisDimaggio19791108|True|98|Professional (Physician) Visit - Office|Co-Payment|None|Individual|True|Amount|20
+CurtisDimaggio19791108|True|1|Medical Care|Co-Payment|None|Individual|True|Amount|0
+CurtisDimaggio19791108|True|98|Professional (Physician) Visit - Office|Co-Payment|None|Individual|True|Amount|0
+CurtisDimaggio19791108|True|88|Pharmacy|Co-Payment|None|Individual|True|Amount|150
+CurtisDimaggio19791108|True|48|Hospital - Inpatient|Co-Payment|None|Individual|True|Amount|0
+CurtisDimaggio19791108|True|88|Pharmacy|Co-Payment|None|Individual|True|Amount|0
+CurtisDimaggio19791108|True|50|Hospital - Outpatient|Co-Payment|None|Individual|True|Amount|500
+CurtisDimaggio19791108|True|AL|Vision (Optometry)|Co-Payment|None|Individual|True|Amount|40
+CurtisDimaggio19791108|True|88|Pharmacy|Co-Payment|None|Individual|True|Amount|10
+CurtisDimaggio19791108|True|50|Hospital - Outpatient|Co-Payment|None|Individual|True|Amount|10
+CurtisDimaggio19791108|True|48|Hospital - Inpatient|Co-Payment|None|Individual|True|Amount|200
+CurtisDimaggio19791108|True|86|Emergency Services|Co-Payment|None|Individual|True|Amount|100
+CurtisDimaggio19791108|True|88|Pharmacy|Co-Payment|None|Individual|True|Amount|100
+CurtisDimaggio19791108|True|88|Pharmacy|Co-Payment|None|Individual|True|Amount|50
+CurtisDimaggio19791108|True|UC|Urgent Care|Co-Payment|None|Individual|True|Amount|50
+CurtisDimaggio19791108|True|1|Medical Care|Co-Insurance|None|Individual|True|Percent|0
+CurtisDimaggio19791108|True|98|Professional (Physician) Visit - Office|Co-Insurance|None|Individual|True|Percent|0
+CurtisDimaggio19791108|True|AL|Vision (Optometry)|Co-Insurance|None|Individual|True|Percent|0
+CurtisDimaggio19791108|True|88|Pharmacy|Co-Insurance|None|Individual|True|Percent|0.5
+CurtisDimaggio19791108|True|48|Hospital - Inpatient|Co-Insurance|None|Individual|False|Percent|0
+CurtisDimaggio19791108|True|AL|Vision (Optometry)|Co-Insurance|None|Individual|True|Percent|0
+CurtisDimaggio19791108|True|33|Chiropractic|Co-Insurance|None|Individual|True|Percent|0
+CurtisDimaggio19791108|True|48|Hospital - Inpatient|Co-Insurance|None|Individual|True|Percent|0
+CurtisDimaggio19791108|True|86|Emergency Services|Co-Insurance|None|Individual|True|Percent|0
+CurtisDimaggio19791108|True|88|Pharmacy|Co-Insurance|None|Individual|True|Percent|0
+CurtisDimaggio19791108|True|MH|Mental Health|Co-Insurance|None|Individual|True|Percent|0
+CurtisDimaggio19791108|True|UC|Urgent Care|Co-Insurance|None|Individual|True|Percent|0
+CurtisDimaggio19791108|True|88|Pharmacy|Co-Insurance|None|Individual|True|Percent|0.2
+CurtisDimaggio19791108|True|1|Medical Care|Co-Insurance|None|Individual|True|Percent|0
+CurtisDimaggio19791108|True|98|Professional (Physician) Visit - Office|Co-Insurance|None|Individual|True|Percent|0
+CurtisDimaggio19791108|True|1|Medical Care|Co-Insurance|None|Individual|False|Percent|0.3
+CurtisDimaggio19791108|True|33|Chiropractic|Co-Insurance|None|Individual|False|Percent|0.3
+CurtisDimaggio19791108|True|48|Hospital - Inpatient|Co-Insurance|None|Individual|False|Percent|0.3
+CurtisDimaggio19791108|True|50|Hospital - Outpatient|Co-Insurance|None|Individual|False|Percent|0.3
+CurtisDimaggio19791108|True|98|Professional (Physician) Visit - Office|Co-Insurance|None|Individual|False|Percent|0.3
+CurtisDimaggio19791108|True|AL|Vision (Optometry)|Co-Insurance|None|Individual|False|Percent|0.3
+CurtisDimaggio19791108|True|MH|Mental Health|Co-Insurance|None|Individual|False|Percent|0.3
+CurtisDimaggio19791108|True|UC|Urgent Care|Co-Insurance|None|Individual|False|Percent|0.3
+CurtisDimaggio19791108|True|1|Medical Care|Co-Insurance|None|Individual|True|Percent|0
+CurtisDimaggio19791108|True|50|Hospital - Outpatient|Co-Insurance|None|Individual|True|Percent|0
+CurtisDimaggio19791108|True|33|Chiropractic|Deductible|Contract|Individual|False|Amount|3000
+CurtisDimaggio19791108|True|1|Medical Care|Deductible|Contract|Individual|False|Amount|3000
+CurtisDimaggio19791108|True|48|Hospital - Inpatient|Deductible|Contract|Individual|False|Amount|3000
+CurtisDimaggio19791108|True|MH|Mental Health|Deductible|Contract|Individual|False|Amount|3000
+CurtisDimaggio19791108|True|50|Hospital - Outpatient|Deductible|Contract|Individual|False|Amount|3000
+CurtisDimaggio19791108|True|AL|Vision (Optometry)|Deductible|Contract|Individual|False|Amount|3000
+CurtisDimaggio19791108|True|UC|Urgent Care|Deductible|Contract|Individual|False|Amount|3000
+CurtisDimaggio19791108|True|98|Professional (Physician) Visit - Office|Deductible|Contract|Individual|False|Amount|3000
+CurtisDimaggio19791108|True|33|Chiropractic|Deductible|Remaining|Individual|False|Amount|2210.1
+CurtisDimaggio19791108|True|1|Medical Care|Deductible|Remaining|Individual|False|Amount|2210.1
+CurtisDimaggio19791108|True|48|Hospital - Inpatient|Deductible|Remaining|Individual|False|Amount|2210.1
+CurtisDimaggio19791108|True|MH|Mental Health|Deductible|Remaining|Individual|False|Amount|2210.1
+CurtisDimaggio19791108|True|50|Hospital - Outpatient|Deductible|Remaining|Individual|False|Amount|2210.1
+CurtisDimaggio19791108|True|AL|Vision (Optometry)|Deductible|Remaining|Individual|False|Amount|2210.1
+CurtisDimaggio19791108|True|UC|Urgent Care|Deductible|Remaining|Individual|False|Amount|2210.1
+CurtisDimaggio19791108|True|98|Professional (Physician) Visit - Office|Deductible|Remaining|Individual|False|Amount|2210.1
+CurtisDimaggio19791108|True|30|Health Benefit Plan Coverage|Deductible|Contract|Individual|False|Amount|3000
+CurtisDimaggio19791108|True|30|Health Benefit Plan Coverage|Deductible|Remaining|Individual|False|Amount|2210.1
+CurtisDimaggio19791108|True|30|Health Benefit Plan Coverage|Out of Pocket (Stop Loss)|Contract|Individual|True|Amount|3500
+CurtisDimaggio19791108|True|30|Health Benefit Plan Coverage|Out of Pocket (Stop Loss)|Remaining|Individual|True|Amount|3285
+CurtisDimaggio19791108|True|30|Health Benefit Plan Coverage|Out of Pocket (Stop Loss)|Contract|Individual|False|Amount|7500
+CurtisDimaggio19791108|True|30|Health Benefit Plan Coverage|Out of Pocket (Stop Loss)|Remaining|Individual|False|Amount|6710.1
+CurtisDimaggio19791108|True|30|Health Benefit Plan Coverage|Limitations|None|None|True|None|None
+CurtisDimaggio19791108|True|30|Health Benefit Plan Coverage|Limitations|None|None|True|None|None
+JamesDrake19900401|True|30|Health Benefit Plan Coverage|Active Coverage|None|None|False|coverage|True
+JamesDrake19900401|True|30|Health Benefit Plan Coverage|Out of Pocket (Stop Loss)|Calendar Year|Family|True|Amount|14100
+JamesDrake19900401|True|30|Health Benefit Plan Coverage|Out of Pocket (Stop Loss)|Remaining|Family|False|Amount|19895.66
+JamesDrake19900401|True|30|Health Benefit Plan Coverage|Out of Pocket (Stop Loss)|Year to Date|Family|True|Amount|1674.64
+JamesDrake19900401|True|30|Health Benefit Plan Coverage|Out of Pocket (Stop Loss)|Remaining|Individual|True|Amount|6298.49
+JamesDrake19900401|True|30|Health Benefit Plan Coverage|Out of Pocket (Stop Loss)|Calendar Year|Family|False|Amount|20000
+JamesDrake19900401|True|30|Health Benefit Plan Coverage|Out of Pocket (Stop Loss)|Year to Date|Individual|True|Amount|751.51
+JamesDrake19900401|True|30|Health Benefit Plan Coverage|Deductible|Calendar Year|Family|True|Amount|5000
+JamesDrake19900401|True|30|Health Benefit Plan Coverage|Deductible|Year to Date|Family|True|Amount|1674.64
+JamesDrake19900401|True|30|Health Benefit Plan Coverage|Out of Pocket (Stop Loss)|Remaining|Family|True|Amount|12425.36
+JamesDrake19900401|True|30|Health Benefit Plan Coverage|Deductible|Year to Date|Family|False|Amount|104.34
+JamesDrake19900401|True|30|Health Benefit Plan Coverage|Deductible|Calendar Year|Family|False|Amount|10000
+JamesDrake19900401|True|30|Health Benefit Plan Coverage|Out of Pocket (Stop Loss)|Calendar Year|Individual|False|Amount|10000
+JamesDrake19900401|True|30|Health Benefit Plan Coverage|Out of Pocket (Stop Loss)|Year to Date|Family|False|Amount|104.34
+JamesDrake19900401|True|30|Health Benefit Plan Coverage|Out of Pocket (Stop Loss)|Year to Date|Individual|False|Amount|104.34
+JamesDrake19900401|True|30|Health Benefit Plan Coverage|Out of Pocket (Stop Loss)|Remaining|Individual|False|Amount|9895.66
+JamesDrake19900401|True|30|Health Benefit Plan Coverage|Deductible|Remaining|Family|True|Amount|3325.36
+JamesDrake19900401|True|30|Health Benefit Plan Coverage|Deductible|Remaining|Family|False|Amount|9895.66
+JamesDrake19900401|True|30|Health Benefit Plan Coverage|Out of Pocket (Stop Loss)|Calendar Year|Individual|True|Amount|7050
+JamesDrake19900401|True|AL|Vision (Optometry)|Active Coverage|None|None|True|coverage|True
+JamesDrake19900401|True|1|Medical Care|Active Coverage|None|None|False|coverage|True
+JamesDrake19900401|True|33|Chiropractic|Active Coverage|None|None|False|coverage|True
+JamesDrake19900401|True|47|Hospital|Active Coverage|None|None|False|coverage|True
+JamesDrake19900401|True|48|Hospital - Inpatient|Active Coverage|None|None|False|coverage|True
+JamesDrake19900401|True|50|Hospital - Outpatient|Active Coverage|None|None|False|coverage|True
+JamesDrake19900401|True|86|Emergency Services|Active Coverage|None|None|False|coverage|True
+JamesDrake19900401|True|98|Professional (Physician) Visit - Office|Active Coverage|None|None|False|coverage|True
+JamesDrake19900401|True|MH|Mental Health|Active Coverage|None|None|False|coverage|True
+JamesDrake19900401|True|PT|Physical Therapy|Active Coverage|None|None|False|coverage|True
+JamesDrake19900401|True|UC|Urgent Care|Active Coverage|None|None|False|coverage|True
+JamesDrake19900401|True|96|Professional (Physician)|Active Coverage|None|None|False|coverage|True
+JamesDrake19900401|True|33|Chiropractic|Co-Insurance|Visit|Individual|False|Percent|0.5
+JamesDrake19900401|True|50|Hospital - Outpatient|Co-Insurance|Visit|Individual|False|Percent|0.5
+JamesDrake19900401|True|86|Emergency Services|Co-Insurance|Visit|Individual|False|Percent|0.5
+JamesDrake19900401|True|98|Professional (Physician) Visit - Office|Co-Insurance|Visit|Individual|False|Percent|0.5
+JamesDrake19900401|True|UC|Urgent Care|Co-Insurance|Visit|Individual|False|Percent|0.5
+JamesDrake19900401|True|48|Hospital - Inpatient|Co-Insurance|Visit|Individual|False|Percent|0.5
+JamesDrake19900401|True|PT|Physical Therapy|Co-Insurance|Visit|Individual|False|Percent|0.5
+JamesDrake19900401|True|86|Emergency Services|Co-Insurance|Visit|Individual|True|Percent|0.1
+JamesDrake19900401|True|48|Hospital - Inpatient|Co-Insurance|Visit|Individual|True|Percent|0.1
+JamesDrake19900401|True|96|Professional (Physician)|Co-Insurance|Visit|Individual|True|Percent|0
+JamesDrake19900401|True|PT|Physical Therapy|Co-Insurance|Visit|Individual|True|Percent|0
+JamesDrake19900401|True|50|Hospital - Outpatient|Co-Insurance|Visit|Individual|True|Percent|0
+JamesDrake19900401|True|UC|Urgent Care|Co-Insurance|Visit|Individual|True|Percent|0
+JamesDrake19900401|True|33|Chiropractic|Co-Insurance|Visit|Individual|True|Percent|0
+JamesDrake19900401|True|98|Professional (Physician) Visit - Office|Co-Insurance|Visit|Individual|True|Percent|0
+JamesDrake19900401|True|96|Professional (Physician)|Co-Insurance|Visit|Individual|False|Percent|0.5
+JamesDrake19900401|True|50|Hospital - Outpatient|Co-Payment|Visit|Individual|True|Amount|200
+JamesDrake19900401|True|96|Professional (Physician)|Co-Payment|Visit|Individual|True|Amount|60
+JamesDrake19900401|True|48|Hospital - Inpatient|Co-Payment|Visit|Individual|False|Amount|0
+JamesDrake19900401|True|86|Emergency Services|Co-Payment|Visit|Individual|False|Amount|0
+JamesDrake19900401|True|PT|Physical Therapy|Co-Payment|Visit|Individual|False|Amount|0
+JamesDrake19900401|True|98|Professional (Physician) Visit - Office|Co-Payment|Visit|Individual|False|Amount|0
+JamesDrake19900401|True|33|Chiropractic|Co-Payment|Visit|Individual|False|Amount|0
+JamesDrake19900401|True|UC|Urgent Care|Co-Payment|Visit|Individual|False|Amount|0
+JamesDrake19900401|True|50|Hospital - Outpatient|Co-Payment|Visit|Individual|False|Amount|0
+JamesDrake19900401|True|96|Professional (Physician)|Co-Payment|Visit|Individual|False|Amount|0
+JamesDrake19900401|True|98|Professional (Physician) Visit - Office|Co-Payment|Visit|Individual|True|Amount|30
+JamesDrake19900401|True|33|Chiropractic|Co-Payment|Visit|Individual|True|Amount|30
+JamesDrake19900401|True|PT|Physical Therapy|Co-Payment|Visit|Individual|True|Amount|30
+JamesDrake19900401|True|UC|Urgent Care|Co-Payment|Visit|Individual|True|Amount|75
+JamesDrake19900401|True|48|Hospital - Inpatient|Limitations|Visit|Individual|True|Amount|0
+JamesDrake19900401|True|86|Emergency Services|Limitations|Visit|Individual|True|Amount|0
+JamesDrake19900401|True|48|Hospital - Inpatient|Limitations|Visit|Individual|True|Amount|0
+JamesDrake19900401|True|86|Emergency Services|Limitations|Visit|Individual|True|Amount|0
+JamesDrake19900401|True|35|Dental Care|Contact Following Entity for Eligibility or Benefit Information|None|None|False|None|None
+JamesDrake19900401|True|88|Pharmacy|Contact Following Entity for Eligibility or Benefit Information|None|None|False|None|None
+WileyLabelle19861121|True|30|Health Benefit Plan Coverage|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|30|Health Benefit Plan Coverage|Co-Insurance|None|Individual|True|Percent|0.2
+WileyLabelle19861121|True|30|Health Benefit Plan Coverage|Out of Pocket (Stop Loss)|Calendar Year|Individual|True|Amount|5000
+WileyLabelle19861121|True|30|Health Benefit Plan Coverage|Deductible|Calendar Year|Individual|True|Amount|3000
+WileyLabelle19861121|True|30|Health Benefit Plan Coverage|Deductible|Calendar Year|Family|True|Amount|6000
+WileyLabelle19861121|True|30|Health Benefit Plan Coverage|Out of Pocket (Stop Loss)|Calendar Year|Family|True|Amount|10000
+WileyLabelle19861121|True|30|Health Benefit Plan Coverage|Co-Insurance|None|Family|True|Percent|0.2
+WileyLabelle19861121|True|30|Health Benefit Plan Coverage|Co-Insurance|None|Family|False|Percent|0.4
+WileyLabelle19861121|True|30|Health Benefit Plan Coverage|Out of Pocket (Stop Loss)|Calendar Year|Family|False|Amount|24000
+WileyLabelle19861121|True|30|Health Benefit Plan Coverage|Deductible|Calendar Year|Family|False|Amount|12000
+WileyLabelle19861121|True|30|Health Benefit Plan Coverage|Deductible|Calendar Year|Individual|False|Amount|6000
+WileyLabelle19861121|True|30|Health Benefit Plan Coverage|Co-Insurance|None|Individual|False|Percent|0.4
+WileyLabelle19861121|True|30|Health Benefit Plan Coverage|Out of Pocket (Stop Loss)|Calendar Year|Individual|False|Amount|12000
+WileyLabelle19861121|True|5|Diagnostic Lab|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|98|Professional (Physician) Visit - Office|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|4|Diagnostic X-Ray|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|69|Maternity|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|80|Immunizations|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|67|Smoking Cessation|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|8|Surgical Assistance|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|2|Surgical|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|AF|Speech Therapy|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|BF|Pulmonary Rehabilitation|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|64|Acupuncture|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|82|Family Planning|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|3|Consultation|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|6|Radiation Therapy|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|BD|Cognitive Therapy|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|70|Transplants|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|BG|Cardiac Rehabilitation|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|73|Diagnostic Medical|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|78|Chemotherapy|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|BN|Gastrointestinal|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|86|Emergency Services|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|48|Hospital - Inpatient|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|BQ|Neurology|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|62|MRI/CAT Scan|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|68|Well Baby Care|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|17|Pre-Admission Testing|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|76|Dialysis|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|79|Allergy Testing|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|BR|Eye|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|13|Ambulatory Service Center Facility|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|19|Pneumonia Vaccine|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|BH|Pediatric|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|18|Durable Medical Equipment Rental|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|12|Durable Medical Equipment Purchase|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|52|Hospital - Emergency Medical|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|A1|Professional (Physician) Visit - Nursing Home|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|AD|Occupational Therapy|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|75|Prosthetic Device|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|61|In-vitro Fertilization|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|83|Infertility|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|AE|Physical Medicine|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|84|Abortion|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|71|Audiology Exam|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|50|Hospital - Outpatient|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|74|Private Duty Nursing|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|53|Hospital - Ambulatory Surgical|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|AG|Skilled Nursing Care|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|81|Routine Physical|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|33|Chiropractic|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|7|Anesthesia|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|UC|Urgent Care|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|97|Anesthesiologist|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|AB|Rehabilitation - Inpatient|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|9|Other Medical|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|56|Medically Related Transportation|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|A0|Professional (Physician) Visit - Outpatient|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|99|Professional (Physician) Visit - Inpatient|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|51|Hospital - Emergency Accident|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|A9|Rehabilitation|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|A3|Professional (Physician) Visit - Home|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|96|Professional (Physician)|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|1|Medical Care|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|BL|Cardiac|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|47|Hospital|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|BK|Orthopedic|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|5|Diagnostic Lab|Deductible|Calendar Year|Individual|True|Amount|0
+WileyLabelle19861121|True|5|Diagnostic Lab|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|5|Diagnostic Lab|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|4|Diagnostic X-Ray|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|5|Diagnostic Lab|Coverage Basis|None|None|True|None|None
+WileyLabelle19861121|True|4|Diagnostic X-Ray|Coverage Basis|None|None|True|None|None
+WileyLabelle19861121|True|69|Maternity|Coverage Basis|None|None|True|None|None
+WileyLabelle19861121|True|82|Family Planning|Coverage Basis|None|None|True|None|None
+WileyLabelle19861121|True|73|Diagnostic Medical|Coverage Basis|None|None|True|None|None
+WileyLabelle19861121|True|BQ|Neurology|Coverage Basis|None|None|True|None|None
+WileyLabelle19861121|True|18|Durable Medical Equipment Rental|Coverage Basis|None|None|True|None|None
+WileyLabelle19861121|True|12|Durable Medical Equipment Purchase|Coverage Basis|None|None|True|None|None
+WileyLabelle19861121|True|5|Diagnostic Lab|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|98|Professional (Physician) Visit - Office|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|4|Diagnostic X-Ray|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|4|Diagnostic X-Ray|Deductible|Calendar Year|Individual|True|Amount|0
+WileyLabelle19861121|True|4|Diagnostic X-Ray|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|4|Diagnostic X-Ray|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|4|Diagnostic X-Ray|Deductible|Calendar Year|Individual|True|Amount|0
+WileyLabelle19861121|True|4|Diagnostic X-Ray|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|4|Diagnostic X-Ray|Deductible|Calendar Year|Individual|True|Amount|0
+WileyLabelle19861121|True|69|Maternity|Deductible|Calendar Year|Individual|True|Amount|0
+WileyLabelle19861121|True|18|Durable Medical Equipment Rental|Deductible|Calendar Year|Individual|True|Amount|0
+WileyLabelle19861121|True|12|Durable Medical Equipment Purchase|Deductible|Calendar Year|Individual|True|Amount|0
+WileyLabelle19861121|True|69|Maternity|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|18|Durable Medical Equipment Rental|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|12|Durable Medical Equipment Purchase|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|80|Immunizations|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|80|Immunizations|Deductible|Calendar Year|Individual|True|Amount|0
+WileyLabelle19861121|True|80|Immunizations|Deductible|Calendar Year|Individual|True|Amount|0
+WileyLabelle19861121|True|80|Immunizations|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|80|Immunizations|Deductible|Calendar Year|Individual|False|Amount|0
+WileyLabelle19861121|True|80|Immunizations|Co-Insurance|None|Individual|False|Percent|0
+WileyLabelle19861121|True|67|Smoking Cessation|Deductible|Calendar Year|Individual|True|Amount|0
+WileyLabelle19861121|True|67|Smoking Cessation|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|67|Smoking Cessation|Deductible|Calendar Year|Individual|True|Amount|0
+WileyLabelle19861121|True|67|Smoking Cessation|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|AF|Speech Therapy|Limitations|Calendar Year|Individual|True|None|None
+WileyLabelle19861121|True|AF|Speech Therapy|Coverage Basis|None|None|False|None|None
+WileyLabelle19861121|True|BF|Pulmonary Rehabilitation|Coverage Basis|None|None|False|None|None
+WileyLabelle19861121|True|70|Transplants|Coverage Basis|None|None|False|None|None
+WileyLabelle19861121|True|BG|Cardiac Rehabilitation|Coverage Basis|None|None|False|None|None
+WileyLabelle19861121|True|BN|Gastrointestinal|Coverage Basis|None|None|False|None|None
+WileyLabelle19861121|True|75|Prosthetic Device|Coverage Basis|None|None|False|None|None
+WileyLabelle19861121|True|A9|Rehabilitation|Coverage Basis|None|None|False|None|None
+WileyLabelle19861121|True|AF|Speech Therapy|Limitations|Calendar Year|Individual|False|None|None
+WileyLabelle19861121|True|BF|Pulmonary Rehabilitation|Limitations|Calendar Year|Individual|True|None|None
+WileyLabelle19861121|True|BF|Pulmonary Rehabilitation|Limitations|Calendar Year|Individual|False|None|None
+WileyLabelle19861121|True|BF|Pulmonary Rehabilitation|Limitations|Calendar Year|Individual|False|None|None
+WileyLabelle19861121|True|BF|Pulmonary Rehabilitation|Limitations|Calendar Year|Individual|True|None|None
+WileyLabelle19861121|True|64|Acupuncture|Limitations|Calendar Year|Individual|True|None|None
+WileyLabelle19861121|True|64|Acupuncture|Limitations|Calendar Year|Individual|False|None|None
+WileyLabelle19861121|True|82|Family Planning|Deductible|Calendar Year|Individual|True|Amount|0
+WileyLabelle19861121|True|82|Family Planning|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|82|Family Planning|Deductible|Calendar Year|Individual|True|Amount|0
+WileyLabelle19861121|True|82|Family Planning|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|82|Family Planning|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|82|Family Planning|Deductible|Calendar Year|Individual|True|Amount|0
+WileyLabelle19861121|True|82|Family Planning|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|82|Family Planning|Deductible|Calendar Year|Individual|True|Amount|0
+WileyLabelle19861121|True|BD|Cognitive Therapy|Limitations|Calendar Year|Individual|False|None|None
+WileyLabelle19861121|True|BD|Cognitive Therapy|Limitations|Calendar Year|Individual|True|None|None
+WileyLabelle19861121|True|70|Transplants|Co-Insurance|None|Individual|False|Percent|0
+WileyLabelle19861121|True|70|Transplants|Deductible|Calendar Year|Individual|False|Amount|3000
+WileyLabelle19861121|True|70|Transplants|Limitations|Lifetime|Individual|False|Amount|130000
+WileyLabelle19861121|True|70|Transplants|Limitations|Episode|Individual|False|Amount|10000
+WileyLabelle19861121|True|70|Transplants|Co-Insurance|None|Individual|False|Percent|0
+WileyLabelle19861121|True|70|Transplants|Deductible|Calendar Year|Family|False|Amount|6000
+WileyLabelle19861121|True|70|Transplants|Deductible|Calendar Year|Individual|False|Amount|3000
+WileyLabelle19861121|True|70|Transplants|Deductible|Calendar Year|Family|False|Amount|6000
+WileyLabelle19861121|True|BG|Cardiac Rehabilitation|Limitations|Calendar Year|Individual|False|None|None
+WileyLabelle19861121|True|BG|Cardiac Rehabilitation|Limitations|Calendar Year|Individual|False|None|None
+WileyLabelle19861121|True|BG|Cardiac Rehabilitation|Limitations|Calendar Year|Individual|True|None|None
+WileyLabelle19861121|True|BG|Cardiac Rehabilitation|Limitations|Calendar Year|Individual|True|None|None
+WileyLabelle19861121|True|73|Diagnostic Medical|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|73|Diagnostic Medical|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|68|Well Baby Care|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|73|Diagnostic Medical|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|79|Allergy Testing|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|73|Diagnostic Medical|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|73|Diagnostic Medical|Deductible|Calendar Year|Individual|False|Amount|3000
+WileyLabelle19861121|True|73|Diagnostic Medical|Co-Insurance|None|Individual|False|Percent|0.2
+WileyLabelle19861121|True|73|Diagnostic Medical|Co-Insurance|None|Family|False|Percent|0.2
+WileyLabelle19861121|True|73|Diagnostic Medical|Deductible|Calendar Year|Family|False|Amount|6000
+WileyLabelle19861121|True|BN|Gastrointestinal|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|BQ|Neurology|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|BN|Gastrointestinal|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|BQ|Neurology|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|BN|Gastrointestinal|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|BQ|Neurology|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|BN|Gastrointestinal|Co-Insurance|None|Individual|True|Percent|0.2
+WileyLabelle19861121|True|BN|Gastrointestinal|Co-Insurance|None|Family|False|Percent|0.4
+WileyLabelle19861121|True|BN|Gastrointestinal|Co-Insurance|None|Family|True|Percent|0.2
+WileyLabelle19861121|True|BN|Gastrointestinal|Co-Insurance|None|Individual|False|Percent|0.4
+WileyLabelle19861121|True|BN|Gastrointestinal|Co-Insurance|None|Individual|True|Percent|0.2
+WileyLabelle19861121|True|BN|Gastrointestinal|Co-Insurance|None|Family|False|Percent|0.4
+WileyLabelle19861121|True|BN|Gastrointestinal|Co-Insurance|None|Family|True|Percent|0.2
+WileyLabelle19861121|True|BN|Gastrointestinal|Co-Insurance|None|Individual|False|Percent|0.4
+WileyLabelle19861121|True|86|Emergency Services|Co-Insurance|None|Family|False|Percent|0.2
+WileyLabelle19861121|True|86|Emergency Services|Deductible|Calendar Year|Family|False|Amount|6000
+WileyLabelle19861121|True|86|Emergency Services|Deductible|Calendar Year|Individual|False|Amount|3000
+WileyLabelle19861121|True|86|Emergency Services|Co-Insurance|None|Individual|False|Percent|0.2
+WileyLabelle19861121|True|62|MRI/CAT Scan|Deductible|Calendar Year|Individual|False|Amount|3000
+WileyLabelle19861121|True|62|MRI/CAT Scan|Co-Insurance|None|Individual|False|Percent|0.2
+WileyLabelle19861121|True|62|MRI/CAT Scan|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|62|MRI/CAT Scan|Deductible|Calendar Year|Individual|True|Amount|0
+WileyLabelle19861121|True|62|MRI/CAT Scan|Deductible|Calendar Year|Individual|True|Amount|0
+WileyLabelle19861121|True|62|MRI/CAT Scan|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|62|MRI/CAT Scan|Deductible|Calendar Year|Family|False|Amount|6000
+WileyLabelle19861121|True|62|MRI/CAT Scan|Co-Insurance|None|Family|False|Percent|0.2
+WileyLabelle19861121|True|68|Well Baby Care|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|68|Well Baby Care|Deductible|Calendar Year|Individual|True|Amount|0
+WileyLabelle19861121|True|68|Well Baby Care|Deductible|Calendar Year|Individual|True|Amount|0
+WileyLabelle19861121|True|81|Routine Physical|Deductible|Calendar Year|Individual|True|Amount|0
+WileyLabelle19861121|True|19|Pneumonia Vaccine|Deductible|Calendar Year|Individual|True|Amount|0
+WileyLabelle19861121|True|19|Pneumonia Vaccine|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|71|Audiology Exam|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|BH|Pediatric|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|BH|Pediatric|Deductible|Calendar Year|Individual|True|Amount|0
+WileyLabelle19861121|True|BH|Pediatric|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|BH|Pediatric|Deductible|Calendar Year|Individual|True|Amount|0
+WileyLabelle19861121|True|AD|Occupational Therapy|Limitations|Calendar Year|Individual|False|None|None
+WileyLabelle19861121|True|AD|Occupational Therapy|Limitations|Calendar Year|Individual|True|None|None
+WileyLabelle19861121|True|75|Prosthetic Device|Co-Insurance|None|Individual|True|Percent|0.2
+WileyLabelle19861121|True|75|Prosthetic Device|Co-Insurance|None|Family|False|Percent|0.4
+WileyLabelle19861121|True|75|Prosthetic Device|Co-Insurance|None|Family|True|Percent|0.2
+WileyLabelle19861121|True|75|Prosthetic Device|Co-Insurance|None|Individual|False|Percent|0.4
+WileyLabelle19861121|True|83|Infertility|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|AE|Physical Medicine|Limitations|Calendar Year|Individual|False|None|None
+WileyLabelle19861121|True|AE|Physical Medicine|Limitations|Calendar Year|Individual|True|None|None
+WileyLabelle19861121|True|81|Routine Physical|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|81|Routine Physical|Deductible|Calendar Year|Individual|True|Amount|0
+WileyLabelle19861121|True|81|Routine Physical|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|81|Routine Physical|Co-Insurance|None|Individual|True|Percent|0
+WileyLabelle19861121|True|81|Routine Physical|Deductible|Calendar Year|Individual|True|Amount|0
+WileyLabelle19861121|True|33|Chiropractic|Limitations|Calendar Year|Individual|True|None|None
+WileyLabelle19861121|True|33|Chiropractic|Limitations|Calendar Year|Individual|False|None|None
+WileyLabelle19861121|True|56|Medically Related Transportation|Deductible|Calendar Year|Individual|False|Amount|3000
+WileyLabelle19861121|True|56|Medically Related Transportation|Coverage Basis|None|None|False|None|None
+WileyLabelle19861121|True|56|Medically Related Transportation|Co-Insurance|None|Individual|False|Percent|0.2
+WileyLabelle19861121|True|56|Medically Related Transportation|Deductible|Calendar Year|Family|False|Amount|6000
+WileyLabelle19861121|True|56|Medically Related Transportation|Co-Insurance|None|Family|False|Percent|0.2
+WileyLabelle19861121|True|A9|Rehabilitation|Limitations|Calendar Year|Individual|True|None|None
+WileyLabelle19861121|True|A9|Rehabilitation|Limitations|Calendar Year|Individual|False|None|None
+WileyLabelle19861121|True|MH|Mental Health|Active Coverage|None|None|False|coverage|True
+WileyLabelle19861121|True|30|Health Benefit Plan Coverage|Out of Pocket (Stop Loss)|Remaining|Individual|True|Amount|0
+WileyLabelle19861121|True|30|Health Benefit Plan Coverage|Deductible|Remaining|Individual|True|Amount|0
+WileyLabelle19861121|True|30|Health Benefit Plan Coverage|Deductible|Remaining|Family|True|Amount|3000
+WileyLabelle19861121|True|30|Health Benefit Plan Coverage|Out of Pocket (Stop Loss)|Remaining|Family|True|Amount|5000
+WileyLabelle19861121|True|30|Health Benefit Plan Coverage|Out of Pocket (Stop Loss)|Remaining|Family|False|Amount|24000
+WileyLabelle19861121|True|30|Health Benefit Plan Coverage|Deductible|Remaining|Family|False|Amount|12000
+WileyLabelle19861121|True|30|Health Benefit Plan Coverage|Deductible|Remaining|Individual|False|Amount|6000
+WileyLabelle19861121|True|30|Health Benefit Plan Coverage|Out of Pocket (Stop Loss)|Remaining|Individual|False|Amount|12000
+WileyLabelle19861121|True|AF|Speech Therapy|Limitations|Remaining|Individual|True|None|None
+WileyLabelle19861121|True|AF|Speech Therapy|Limitations|Remaining|Individual|False|None|None
+WileyLabelle19861121|True|BF|Pulmonary Rehabilitation|Limitations|Remaining|Individual|True|None|None
+WileyLabelle19861121|True|BF|Pulmonary Rehabilitation|Limitations|Remaining|Individual|False|None|None
+WileyLabelle19861121|True|64|Acupuncture|Limitations|Remaining|Individual|True|None|None
+WileyLabelle19861121|True|64|Acupuncture|Limitations|Remaining|Individual|False|None|None
+WileyLabelle19861121|True|BD|Cognitive Therapy|Limitations|Remaining|Individual|False|None|None
+WileyLabelle19861121|True|BD|Cognitive Therapy|Limitations|Remaining|Individual|True|None|None
+WileyLabelle19861121|True|70|Transplants|Limitations|Lifetime Remaining|Individual|False|Amount|130000
+WileyLabelle19861121|True|BG|Cardiac Rehabilitation|Limitations|Remaining|Individual|False|None|None
+WileyLabelle19861121|True|BG|Cardiac Rehabilitation|Limitations|Remaining|Individual|False|None|None
+WileyLabelle19861121|True|BG|Cardiac Rehabilitation|Limitations|Remaining|Individual|True|None|None
+WileyLabelle19861121|True|BG|Cardiac Rehabilitation|Limitations|Remaining|Individual|True|None|None
+WileyLabelle19861121|True|AD|Occupational Therapy|Limitations|Remaining|Individual|False|None|None
+WileyLabelle19861121|True|AD|Occupational Therapy|Limitations|Remaining|Individual|True|None|None
+WileyLabelle19861121|True|AE|Physical Medicine|Limitations|Remaining|Individual|False|None|None
+WileyLabelle19861121|True|AE|Physical Medicine|Limitations|Remaining|Individual|True|None|None
+WileyLabelle19861121|True|33|Chiropractic|Limitations|Remaining|Individual|True|None|None
+WileyLabelle19861121|True|33|Chiropractic|Limitations|Remaining|Individual|False|None|None
+WileyLabelle19861121|True|A9|Rehabilitation|Limitations|Remaining|Individual|True|None|None
+WileyLabelle19861121|True|A9|Rehabilitation|Limitations|Remaining|Individual|False|None|None
+WileyLabelle19861121|True|AL|Vision (Optometry)|Contact Following Entity for Eligibility or Benefit Information|None|None|False|None|None
+JamesDrake19900401|True|30|Health Benefit Plan Coverage|Active Coverage|None|None|False|coverage|True
+JamesDrake19900401|True|30|Health Benefit Plan Coverage|Out of Pocket (Stop Loss)|Calendar Year|Family|True|Amount|14100
+JamesDrake19900401|True|30|Health Benefit Plan Coverage|Out of Pocket (Stop Loss)|Remaining|Family|False|Amount|19895.66
+JamesDrake19900401|True|30|Health Benefit Plan Coverage|Out of Pocket (Stop Loss)|Year to Date|Family|True|Amount|1674.64
+JamesDrake19900401|True|30|Health Benefit Plan Coverage|Out of Pocket (Stop Loss)|Remaining|Individual|True|Amount|6298.49
+JamesDrake19900401|True|30|Health Benefit Plan Coverage|Out of Pocket (Stop Loss)|Calendar Year|Family|False|Amount|20000
+JamesDrake19900401|True|30|Health Benefit Plan Coverage|Out of Pocket (Stop Loss)|Year to Date|Individual|True|Amount|751.51
+JamesDrake19900401|True|30|Health Benefit Plan Coverage|Deductible|Calendar Year|Family|True|Amount|5000
+JamesDrake19900401|True|30|Health Benefit Plan Coverage|Deductible|Year to Date|Family|True|Amount|1674.64
+JamesDrake19900401|True|30|Health Benefit Plan Coverage|Out of Pocket (Stop Loss)|Remaining|Family|True|Amount|12425.36
+JamesDrake19900401|True|30|Health Benefit Plan Coverage|Deductible|Year to Date|Family|False|Amount|104.34
+JamesDrake19900401|True|30|Health Benefit Plan Coverage|Deductible|Calendar Year|Family|False|Amount|10000
+JamesDrake19900401|True|30|Health Benefit Plan Coverage|Out of Pocket (Stop Loss)|Calendar Year|Individual|False|Amount|10000
+JamesDrake19900401|True|30|Health Benefit Plan Coverage|Out of Pocket (Stop Loss)|Year to Date|Family|False|Amount|104.34
+JamesDrake19900401|True|30|Health Benefit Plan Coverage|Out of Pocket (Stop Loss)|Year to Date|Individual|False|Amount|104.34
+JamesDrake19900401|True|30|Health Benefit Plan Coverage|Out of Pocket (Stop Loss)|Remaining|Individual|False|Amount|9895.66
+JamesDrake19900401|True|30|Health Benefit Plan Coverage|Deductible|Remaining|Family|True|Amount|3325.36
+JamesDrake19900401|True|30|Health Benefit Plan Coverage|Deductible|Remaining|Family|False|Amount|9895.66
+JamesDrake19900401|True|30|Health Benefit Plan Coverage|Out of Pocket (Stop Loss)|Calendar Year|Individual|True|Amount|7050
+JamesDrake19900401|True|AL|Vision (Optometry)|Active Coverage|None|None|True|coverage|True
+JamesDrake19900401|True|1|Medical Care|Active Coverage|None|None|False|coverage|True
+JamesDrake19900401|True|33|Chiropractic|Active Coverage|None|None|False|coverage|True
+JamesDrake19900401|True|47|Hospital|Active Coverage|None|None|False|coverage|True
+JamesDrake19900401|True|48|Hospital - Inpatient|Active Coverage|None|None|False|coverage|True
+JamesDrake19900401|True|50|Hospital - Outpatient|Active Coverage|None|None|False|coverage|True
+JamesDrake19900401|True|86|Emergency Services|Active Coverage|None|None|False|coverage|True
+JamesDrake19900401|True|98|Professional (Physician) Visit - Office|Active Coverage|None|None|False|coverage|True
+JamesDrake19900401|True|MH|Mental Health|Active Coverage|None|None|False|coverage|True
+JamesDrake19900401|True|PT|Physical Therapy|Active Coverage|None|None|False|coverage|True
+JamesDrake19900401|True|UC|Urgent Care|Active Coverage|None|None|False|coverage|True
+JamesDrake19900401|True|96|Professional (Physician)|Active Coverage|None|None|False|coverage|True
+JamesDrake19900401|True|33|Chiropractic|Co-Insurance|Visit|Individual|False|Percent|0.5
+JamesDrake19900401|True|50|Hospital - Outpatient|Co-Insurance|Visit|Individual|False|Percent|0.5
+JamesDrake19900401|True|86|Emergency Services|Co-Insurance|Visit|Individual|False|Percent|0.5
+JamesDrake19900401|True|98|Professional (Physician) Visit - Office|Co-Insurance|Visit|Individual|False|Percent|0.5
+JamesDrake19900401|True|UC|Urgent Care|Co-Insurance|Visit|Individual|False|Percent|0.5
+JamesDrake19900401|True|48|Hospital - Inpatient|Co-Insurance|Visit|Individual|False|Percent|0.5
+JamesDrake19900401|True|PT|Physical Therapy|Co-Insurance|Visit|Individual|False|Percent|0.5
+JamesDrake19900401|True|86|Emergency Services|Co-Insurance|Visit|Individual|True|Percent|0.1
+JamesDrake19900401|True|48|Hospital - Inpatient|Co-Insurance|Visit|Individual|True|Percent|0.1
+JamesDrake19900401|True|96|Professional (Physician)|Co-Insurance|Visit|Individual|True|Percent|0
+JamesDrake19900401|True|PT|Physical Therapy|Co-Insurance|Visit|Individual|True|Percent|0
+JamesDrake19900401|True|50|Hospital - Outpatient|Co-Insurance|Visit|Individual|True|Percent|0
+JamesDrake19900401|True|UC|Urgent Care|Co-Insurance|Visit|Individual|True|Percent|0
+JamesDrake19900401|True|33|Chiropractic|Co-Insurance|Visit|Individual|True|Percent|0
+JamesDrake19900401|True|98|Professional (Physician) Visit - Office|Co-Insurance|Visit|Individual|True|Percent|0
+JamesDrake19900401|True|96|Professional (Physician)|Co-Insurance|Visit|Individual|False|Percent|0.5
+JamesDrake19900401|True|50|Hospital - Outpatient|Co-Payment|Visit|Individual|True|Amount|200
+JamesDrake19900401|True|96|Professional (Physician)|Co-Payment|Visit|Individual|True|Amount|60
+JamesDrake19900401|True|48|Hospital - Inpatient|Co-Payment|Visit|Individual|False|Amount|0
+JamesDrake19900401|True|86|Emergency Services|Co-Payment|Visit|Individual|False|Amount|0
+JamesDrake19900401|True|PT|Physical Therapy|Co-Payment|Visit|Individual|False|Amount|0
+JamesDrake19900401|True|98|Professional (Physician) Visit - Office|Co-Payment|Visit|Individual|False|Amount|0
+JamesDrake19900401|True|33|Chiropractic|Co-Payment|Visit|Individual|False|Amount|0
+JamesDrake19900401|True|UC|Urgent Care|Co-Payment|Visit|Individual|False|Amount|0
+JamesDrake19900401|True|50|Hospital - Outpatient|Co-Payment|Visit|Individual|False|Amount|0
+JamesDrake19900401|True|96|Professional (Physician)|Co-Payment|Visit|Individual|False|Amount|0
+JamesDrake19900401|True|98|Professional (Physician) Visit - Office|Co-Payment|Visit|Individual|True|Amount|30
+JamesDrake19900401|True|33|Chiropractic|Co-Payment|Visit|Individual|True|Amount|30
+JamesDrake19900401|True|PT|Physical Therapy|Co-Payment|Visit|Individual|True|Amount|30
+JamesDrake19900401|True|UC|Urgent Care|Co-Payment|Visit|Individual|True|Amount|75
+JamesDrake19900401|True|48|Hospital - Inpatient|Limitations|Visit|Individual|True|Amount|0
+JamesDrake19900401|True|86|Emergency Services|Limitations|Visit|Individual|True|Amount|0
+JamesDrake19900401|True|48|Hospital - Inpatient|Limitations|Visit|Individual|True|Amount|0
+JamesDrake19900401|True|86|Emergency Services|Limitations|Visit|Individual|True|Amount|0
+JamesDrake19900401|True|35|Dental Care|Contact Following Entity for Eligibility or Benefit Information|None|None|False|None|None
+JamesDrake19900401|True|88|Pharmacy|Contact Following Entity for Eligibility or Benefit Information|None|None|False|None|None
